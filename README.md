@@ -1,6 +1,6 @@
 # Literalura
 
-<img src="/src/main/assets/screenshot/screenshot_2024_12_04.png" alt="Capitura de tela do menu interativo." width="50%" height="auto"> 
+<img src="/src/main/assets/screenshot/screenshot_2024_12_04.png" alt="Capitura de tela do menu interativo." width="100%" height="auto"> 
 
 ## 🔎 Descrição
 O `Literalura` é uma aplicação Java que permite que os usuários possam buscar e gerenciar informações sobre livros e autores, integrando-se à API Gutendex. A aplicação também permite realizar buscas por títulos, listar livros e autores registrados, buscar autores vivos em um determinado ano e filtrar livros por um determinado idioma.
